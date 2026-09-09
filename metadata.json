@@ -1,0 +1,6 @@
+{
+  "name": "Sales & Demand Forecasting",
+  "description": "Enterprise sales and demand forecasting platform with time-series ML models, inventory runout alerts, feature engineering, and SQL historical sales queries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
